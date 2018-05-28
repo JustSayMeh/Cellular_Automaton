@@ -1,0 +1,15 @@
+[Module]
+Name=Game of Life
+Path= C:\\Users\\user\\Desktop\\Eclipse\\workspace\\GameOfLifeModule\\
+Bounds= 150 30
+WindowClass= application.GameOfLiveWindow
+[Module]
+Name=WireWorld
+Path= C:\\Users\\user\\Desktop\\Eclipse\\workspace\\WireWorldModule\\
+Bounds= 150 80
+WindowClass= application.WireWorldWindow
+[Module]
+Name=Simple Automat
+Path= C:\\Users\\user\\Desktop\\Eclipse\\workspace\\SimpleCellularAutomaton\\
+Bounds= 150 80
+WindowClass= application.SimpleWindow
